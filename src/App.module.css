@@ -1,0 +1,38 @@
+.App {
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.AppHeader {
+  padding: 1rem;
+  background-color: #20232a ;
+  color: white;
+}
+
+.AppTitle {
+  font-size: 2.5rem;
+  line-height: 1.4;
+}
+
+.AppContent {
+  height: 100%;
+  padding: 2rem;
+}
+
+.AppMain {
+  width: 100%;
+  max-width: 42rem;
+  margin: 0 auto;
+}
+
+.AppText {
+  line-height: 1.5;
+}
+
+/* Utils */
+.center {
+  text-align: center;
+}
+
+.danger {
+  color: red;
+}
